@@ -1,3 +1,9 @@
+importlib (1.0.2-0sg1) maverick; urgency=low
+
+  * UNRELEASED
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 09 Aug 2011 21:16:58 +0000
+
 importlib (1.0.2-0sg0) foss-development; urgency=low
 
   * Packaged.
