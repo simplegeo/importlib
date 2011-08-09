@@ -1,0 +1,24 @@
+This work was packaged for Debian by:
+
+    Ian Eure <ian@simplegeo.com> on Tue, 09 Aug 2011 20:48:51 +0000
+
+It was downloaded from http://pypi.python.org/pypi/importlib
+
+Upstream Author(s):
+
+    Python team
+
+Copyright:
+
+    Python team
+
+License:
+
+    Same license as Python 2.7.x.
+
+The Debian packaging is:
+
+    Copyright (C) 2011 SimpleGeo, Inc.
+
+and is licensed under the BSD license, see `/usr/share/common-licenses/BSD.
+
